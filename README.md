@@ -1,5 +1,7 @@
 ## Welcome to my GitHub Page 👋
 
+<img src="images/Data Analytics.png"/>
+
 Hello, I am Daniel a Data analyst with a diverse background, all centered around one core strength: analyzing client needs, developing tailored solutions, and transforming data into actionable insights, consistently driven by data.
 
 <details>
