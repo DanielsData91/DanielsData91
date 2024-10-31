@@ -4,7 +4,7 @@
 <img src="https://github.com/DanielsData91/danielsdata91.github.io/blob/master/images/Data%20Analytics.png"/>
 
 <p align='center'>
-Hello, I am Daniel a Data analyst with a diverse background, all centered around one core strength: analyzing client needs, developing tailored solutions, and transforming data into actionable insights, consistently driven by data.
+Hello, I am Daniel a Data Analyst with a diverse background, all centered around one core strength: analyzing client needs, developing tailored solutions, and transforming data into actionable insights, consistently driven by data.
 
 <details>
   <summary>📃 Resume</summary>
