@@ -1,15 +1,13 @@
 ## Welcome to my GitHub Page 👋
 
-Hello I am Daniel a Data analyst with a diverse background, all centered around one core strength: analyzing client needs, developing tailored solutions, and transforming data into actionable insights, consistently driven by data.
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DanielsData91"/>
+Hello, I am Daniel a Data analyst with a diverse background, all centered around one core strength: analyzing client needs, developing tailored solutions, and transforming data into actionable insights, consistently driven by data.
 
 <details>
   <summary>📃 Resume</summary>
   
 ## Experience
 
-Here you will find a quick overview. But click the following link to vist my LinkedIn Profil to find all necessary details about my work history and educational background. <a href="www.linkedin.com/in/daniel-müller-profile/">
+Here is a quick overview for you. But you can click the following link to vist my LinkedIn Profil to find all necessary details about my work history and educational background. <a href="www.linkedin.com/in/daniel-müller-profile/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
 
 :man_office_worker: Instructor
@@ -32,7 +30,7 @@ Here you will find a quick overview. But click the following link to vist my Lin
   
 ## Projects
 
-Here you will find a quick overview. But click the following link to vist my LinkedIn Profil to find all necessary details about the project I have done so far. <a href="https://danielsdata91.github.io/">
+Here is a quick overview for you. But you can click the following link to visit my LinkedIn Profile to find all the necessary details about the projects I have done so far. <a href="https://danielsdata91.github.io/">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> 
 
 - 👨‍💻 **Marketing Analyst**
