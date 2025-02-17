@@ -37,6 +37,14 @@ Here is a quick overview for you. But you can click the following link to vist m
 Here is a quick overview for you. But you can click the following link to visit my LinkedIn Profile to find all the necessary details about the projects I have done so far. <a href="https://danielsdata91.github.io/">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> 
 
+- 👨‍💻 **Customized Analyst**
+📆 2025/February
+📍 **CareerFoundry** - Berlin/Germany
+
+<img align="right" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img align="right" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+
 - 👨‍💻 **Marketing Analyst**
 📆 2024/October
 📍 **CareerFoundry** - Berlin/Germany
