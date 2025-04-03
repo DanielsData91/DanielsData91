@@ -35,7 +35,18 @@ Here is a quick overview for you. But you can click the following link to vist m
 ## Projects
 
 Here is a quick overview for you. But you can click the following link to visit my GitHub Profile to find all the necessary details about the projects I have done so far. <a href="https://danielsdata91.github.io/">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> 
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+
+
+- 👨‍💻 **ClimateChange Analyst**
+📆 2025/April
+📍 **CareerFoundry** - Berlin/Germany
+
+<img align="right" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img align="right" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+
+📁 ClimateWins Analysis
 
 - 👨‍💻 **Customized Analyst**
 📆 2025/February
